@@ -1,0 +1,6 @@
+C:\Users\Roun\Documents\GitHub\Foundations\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.exe.config
+C:\Users\Roun\Documents\GitHub\Foundations\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.exe
+C:\Users\Roun\Documents\GitHub\Foundations\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.pdb
+C:\Users\Roun\Documents\GitHub\Foundations\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.csprojResolveAssemblyReference.cache
+C:\Users\Roun\Documents\GitHub\Foundations\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.exe
+C:\Users\Roun\Documents\GitHub\Foundations\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.pdb
